@@ -117,9 +117,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="UserInfo.cpp" />
+    <ClCompile Include="UserNames.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Header.h" />
+    <ClInclude Include="Finance_Interface.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
